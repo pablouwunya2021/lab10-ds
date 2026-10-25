@@ -2,10 +2,12 @@
 
 **Laboratorio 10 · Visualización Interactiva · CC3066 Data Science · UVG · Semestre II 2026**
 
-**Integrantes del grupo**
+**Integrantes del grupo — Proyecto 1 · Grupo 4**
 
-- Pablo Cabrera — GitHub: [pablouwunya2021](https://github.com/pablouwunya2021)
-- Luis Mendoza — GitHub: [lfmendoza](https://github.com/lfmendoza)
+- Hansel André López Montenegro
+- María José Yee Vidal
+- Pablo Andrés Cabrera Argüello — GitHub: [pablouwunya2021](https://github.com/pablouwunya2021)
+- Pablo José Méndez Alvarado
 
 **Repositorio del código:** https://github.com/pablouwunya2021/lab10-ds.git
 
@@ -192,16 +194,16 @@ El historial del repositorio documenta las contribuciones de cada integrante.
 
 | # | Tarea | Fecha de terminación | Responsable |
 |---|---|---|---|
-| 1 | Selección de preguntas de gestión y alcance | 20/oct/2026 | Luis Mendoza |
-| 2 | Paleta de colores, tipografía y bosquejo de navegación | 21/oct/2026 | Luis Mendoza |
-| 3 | Reúso de datos y modelos del Lab 2 (loaders) | 21/oct/2026 | Pablo Cabrera |
-| 4 | **Avance:** ≥2 visualizaciones interactivas funcionales | 22/oct/2026 (5:20 pm) | Pablo Cabrera |
-| 5 | Página Explorar (viz 1–5, enlace origen → detalle) | 23/oct/2026 | Luis Mendoza |
-| 6 | Página Modelos (viz 6–9, enlace de modelo) | 24/oct/2026 | Pablo Cabrera |
-| 7 | Página Perfil (viz 10–11) y textos explicativos | 24/oct/2026 | Luis Mendoza |
-| 8 | Pruebas de interacción y revisión de diseño/UX | 25/oct/2026 | Pablo Cabrera |
-| 9 | Documento de diseño (este PDF) | 25/oct/2026 | Luis Mendoza |
-| 10 | **Entrega final** (código + documento) | 25/oct/2026 | Pablo Cabrera y Luis Mendoza |
+| 1 | Selección de preguntas de gestión y alcance | 20/oct/2026 | María José Yee Vidal |
+| 2 | Paleta de colores, tipografía y bosquejo de navegación | 21/oct/2026 | Hansel André López Montenegro |
+| 3 | Reúso de datos y modelos del Lab 2 (loaders) | 21/oct/2026 | Pablo Andrés Cabrera Argüello |
+| 4 | **Avance:** ≥2 visualizaciones interactivas funcionales | 22/oct/2026 (5:20 pm) | Pablo Andrés Cabrera Argüello |
+| 5 | Página Explorar (viz 1–5, enlace origen → detalle) | 23/oct/2026 | Pablo José Méndez Alvarado |
+| 6 | Página Modelos (viz 6–9, enlace de modelo) | 24/oct/2026 | Pablo Andrés Cabrera Argüello |
+| 7 | Página Perfil (viz 10–11) y textos explicativos | 24/oct/2026 | Hansel André López Montenegro |
+| 8 | Pruebas de interacción y revisión de diseño/UX | 25/oct/2026 | María José Yee Vidal |
+| 9 | Documento de diseño (este PDF) | 25/oct/2026 | Pablo José Méndez Alvarado |
+| 10 | **Entrega final** (código + documento) | 25/oct/2026 | Todo el grupo |
 
 ---
 
