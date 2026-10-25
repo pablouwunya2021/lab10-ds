@@ -7,7 +7,7 @@
 - Pablo Cabrera — GitHub: [pablouwunya2021](https://github.com/pablouwunya2021)
 - Luis Mendoza — GitHub: [lfmendoza](https://github.com/lfmendoza)
 
-**Repositorio del código:** https://github.com/pablouwunya2021/Lab2DS.git
+**Repositorio del código:** https://github.com/pablouwunya2021/lab10-ds.git
 
 Tablero dirigido a **directivos y tomadores de decisiones del sector turístico** sin formación
 estadística. Permite explorar el ingreso de visitantes no residentes a Guatemala (2009–2026),
