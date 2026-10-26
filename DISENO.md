@@ -4,10 +4,10 @@
 
 **Integrantes del grupo — Proyecto 1 · Grupo 4**
 
-- Hansel André López Montenegro
-- María José Yee Vidal
+- Hansel André López Montenegro — GitHub: [HanseLopez99](https://github.com/HanseLopez99)
+- María José Yee Vidal — GitHub: [Yee404](https://github.com/Yee404)
 - Pablo Andrés Cabrera Argüello — GitHub: [pablouwunya2021](https://github.com/pablouwunya2021)
-- Pablo José Méndez Alvarado
+- Pablo José Méndez Alvarado — GitHub: [Paul-1511](https://github.com/Paul-1511)
 
 **Repositorio del código:** https://github.com/pablouwunya2021/lab10-ds.git
 
